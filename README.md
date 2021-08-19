@@ -1,1 +1,1 @@
-# stochastic-calculus-for-finance-1-discrete-time-models
+# stochastic-calculus-for-finance-1-the-binomial-asset-pricing-model
